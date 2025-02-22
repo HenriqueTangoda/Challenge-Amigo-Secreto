@@ -16,6 +16,17 @@ Desenvolvido através de um Challenge do programa ONE, este projeto é um simple
 - JavaScript
 
 ## 📌 Como Usar
+
+### 🖼 Capturas de Tela
+
+#### 📌 Adicionando Nomes
+![Adicionar Nomes](https://github.com/user-attachments/assets/43f7a745-ad6d-4b35-af85-8e260dc61905)
+
+
+#### 🎲 Realizando o Sorteio
+![Sorteio de Amigo](https://github.com/user-attachments/assets/1b5e260a-6b19-482e-9824-b50a3923eef8)
+
+
 1. Insira os nomes na caixa de entrada.
 2. Clique no botão "Adicionar" para inserir os nomes na lista.
 3. Após adicionar os nomes, clique no botão "Sortear".
@@ -34,7 +45,9 @@ Desenvolvido através de um Challenge do programa ONE, este projeto é um simple
 - Adicionar animações para tornar o sorteio mais dinâmico.
 
 ## 📁 Acesso ao Projeto
-Você pode abrir o projeto e executá-lo [clicando aqui]([(https://henriquetangoda.github.io/Challenge-Amigo-Secreto/)]).
+Você pode abrir o projeto e executá-lo [clicando aqui](https://henriquetangoda.github.io/Challenge-Amigo-Secreto/).
+
 
 ---
 ✍️ Desenvolvido por Henrique Tangoda.
+
