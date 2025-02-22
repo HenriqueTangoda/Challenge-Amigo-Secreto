@@ -3,7 +3,7 @@
 
 Desenvolvido através de um Challenge do programa ONE, este projeto é um simples sorteador de amigos, onde você pode adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
-🚧
+## 🚧 PROJETO EM CONSTRUÇÃO 🚧
 
 ## 🚀 Funcionalidades
 - Adicionar nomes à lista.
@@ -28,14 +28,13 @@ Desenvolvido através de um Challenge do programa ONE, este projeto é um simple
 ├── 📜 style.css    # Estilos visuais
 └── 📜 script.js    # Lógica do sorteio
 ```
+
 ## 💡 Melhorias Futuras
 - Permitir remover nomes da lista.
 - Adicionar animações para tornar o sorteio mais dinâmico.
 
----
-## 💡 Melhorias Futuras
-- Permitir remover nomes da lista.
-- Adicionar animações para tornar o sorteio mais dinâmico.
+## 📁 Acesso ao Projeto
+Você pode abrir o projeto e executa-lo.
 
 ---
 ✍️ Desenvolvido por Henrique Tangoda.
