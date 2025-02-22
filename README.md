@@ -1,4 +1,5 @@
-# Sorteador de Amigos
+ <h1 align="center"> # Sorteador de Amigos </h1>
+
 
 Este projeto é um simples sorteador de amigos, onde você pode adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
@@ -31,5 +32,5 @@ Este projeto é um simples sorteador de amigos, onde você pode adicionar nomes 
 - Adicionar animações para tornar o sorteio mais dinâmico.
 
 ---
-✍️ Desenvolvido por [Seu Nome]
+✍️ Desenvolvido por Henrique Tangoda.
 
