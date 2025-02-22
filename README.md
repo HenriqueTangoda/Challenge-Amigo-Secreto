@@ -1,7 +1,7 @@
- <h1 align="center"> # Sorteador de Amigos </h1>
+ <h1 align="center"> Sorteador de Amigos </h1>
 
 
-Este projeto é um simples sorteador de amigos, onde você pode adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
+Desenvolvido através de um Challenge do programa ONE, este projeto é um simples sorteador de amigos, onde você pode adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
 ## 🚀 Funcionalidades
 - Adicionar nomes à lista.
