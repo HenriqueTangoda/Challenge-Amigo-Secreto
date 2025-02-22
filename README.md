@@ -34,7 +34,7 @@ Desenvolvido através de um Challenge do programa ONE, este projeto é um simple
 - Adicionar animações para tornar o sorteio mais dinâmico.
 
 ## 📁 Acesso ao Projeto
-Você pode abrir o projeto e executá-lo [clicando aqui]([#](https://henriquetangoda.github.io/Challenge-Amigo-Secreto/)).
+Você pode abrir o projeto e executá-lo [clicando aqui]((https://henriquetangoda.github.io/Challenge-Amigo-Secreto/)).
 
 ---
 ✍️ Desenvolvido por Henrique Tangoda.
