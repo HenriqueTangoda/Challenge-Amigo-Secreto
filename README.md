@@ -33,4 +33,5 @@ Desenvolvido através de um Challenge do programa ONE, este projeto é um simple
 
 ---
 ✍️ Desenvolvido por Henrique Tangoda.
+> :construction: Projeto em construção :construction:
 
