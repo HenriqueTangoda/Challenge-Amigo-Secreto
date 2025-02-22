@@ -1,18 +1,35 @@
-<h1 align="center"> CHALLENGE AMIGO SECRETO </h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+# Sorteador de Amigos
 
-# Índice 
+Este projeto é um simples sorteador de amigos, onde você pode adicionar nomes a uma lista e sortear aleatoriamente um dos participantes.
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+## 🚀 Funcionalidades
+- Adicionar nomes à lista.
+- Sortear um nome aleatoriamente.
+- Exibir o nome sorteado na tela.
+
+## 🛠 Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Como Usar
+1. Insira os nomes na caixa de entrada.
+2. Clique no botão "Adicionar" para inserir os nomes na lista.
+3. Após adicionar os nomes, clique no botão "Sortear".
+4. O nome sorteado será exibido na tela.
+
+## 📂 Estrutura do Projeto
+```
+📦 Sorteador de Amigos
+├── 📜 index.html   # Estrutura do site
+├── 📜 style.css    # Estilos visuais
+└── 📜 script.js    # Lógica do sorteio
+```
+
+## 💡 Melhorias Futuras
+- Permitir remover nomes da lista.
+- Adicionar animações para tornar o sorteio mais dinâmico.
+
+---
+✍️ Desenvolvido por [Seu Nome]
+
